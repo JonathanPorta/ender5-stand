@@ -1,0 +1,25 @@
+{
+    "atomType": "Molecule",
+    "name": "ender5-stand",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 322194,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9895833333333333,
+            "y": 0.5,
+            "uniqueID": 923468,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1,
+    "simplify": false,
+    "unitsIndex": 0,
+    "filetypeVersion": 1,
+    "circleSegmentSize": 2
+}
